@@ -30,5 +30,6 @@
   "devDependencies": {
     "angular-mocks": ">=1",
     "angular-scenario": ">=1"
-  }
+  },
+  "ignore": []
 }
